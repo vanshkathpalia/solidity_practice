@@ -1,0 +1,6 @@
+pure is used when no change to the state variable 
+for eg state variable is age - 10;
+and in function we are making another variable 
+num - 20;
+
+view is used when want to access the state variable, either modify/change or only read 

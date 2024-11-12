@@ -1,0 +1,26 @@
+/* mistakes */
+/* 
+my approach ->
+1- to make a struct, parameter containing necessary condition to add a fund raise
+-> problem mincont and fund actually raise needs to be compaired
+
+2- problem with receiver function, how to not to send this money to manager if 50% votes are not there
+
+3- voting funtion how to create ???
+
+4- how to send back contributor's amount back in case of any failure ???
+
+i was right about the constructor but it will update many parameter and take deadline and target before delopying 
+
+
+
+
+
+*/
+
+/* 
+correct approach ->
+1- to make no struct instead many const declared 
+2- what about multiple funds there is should have had a event struct... ???
+
+*/
